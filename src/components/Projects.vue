@@ -1,0 +1,21 @@
+<script>
+  export default {
+    name: "Projects",
+
+    ready: function() {
+
+	    
+		
+    }
+  }
+</script>
+
+<template>
+    <div class="row">
+		<div class="medium-8 medium-offset-2 columns">
+			<h1>Contacts</h1>
+			<h4>Now navigate around to find out more</h4>
+		</div>
+		
+    </div>
+</template>

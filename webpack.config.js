@@ -35,5 +35,8 @@ module.exports =  {
   },
   resolve: {
     modulesDirectories: ['node_modules']
+  },
+  node: {
+    fs: "empty"
   }
 }
